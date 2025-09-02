@@ -1,3 +1,1 @@
-# RAG-Assets
-
-This repository showcases different techniques of Retrieval-Augmented Generation (RAG). It offers resources and examples for experimenting with different kind of RAG methods in diverse use cases.
+A collection of hands-on projects and experiments in Generative AI, including RAG (Retrieval-Augmented Generation), Knowledge Graphs, Prompt Engineering, Multimodal workflows and so on.
